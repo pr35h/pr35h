@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=pr35h)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=pr35h&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github-stats-extended.vercel.app/api?username=pr35h&show_icons=true&include_all_commits=true&theme=gruvbox)
 
 <!--
 **pr35h/pr35h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
