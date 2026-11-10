@@ -1,4 +1,4 @@
-[![GitHub Stats]([https://github-stats-extended.vercel.app/api?username=pr35h&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github-stats-extended.vercel.app/api?username=pr35h&show_icons=true&include_all_commits=true&theme=gruvbox](https://github-stats-extended.vercel.app/api?username=pr35h&show_icons=true&show=contributions&include_all_commits=true&theme=gruvbox))
+[![GitHub Stats]((https://github-stats-extended.vercel.app/api?username=pr35h&show_icons=true&show=contributions&include_all_commits=true&theme=gruvbox))
 
 <!--
 **pr35h/pr35h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
